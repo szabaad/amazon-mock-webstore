@@ -1,4 +1,4 @@
-# 2nd commit just to see if hosting works with nginx
+# 2nd commit just to see if hosting works with nginx \_ 2nd try
 
 # Getting Started with Create React App
 
